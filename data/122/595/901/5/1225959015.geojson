@@ -47,7 +47,7 @@
         "gn:id":4035622
     },
     "wof:country":"CK",
-    "wof:geomhash":"8fa9f7a310050e5e9642a476cc968b3f",
+    "wof:geomhash":"06331b3fe66f2ad1be706e4b41162023",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,5 +74,5 @@
     -158.12058000000005,
     -19.99813
 ],
-  "geometry": {"coordinates":[-158.12058000000005,-19.99813],"type":"Point"}
+  "geometry": {"coordinates":[-158.12058,-19.99813],"type":"Point"}
 }
