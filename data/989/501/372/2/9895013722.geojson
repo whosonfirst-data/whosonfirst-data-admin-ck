@@ -1,0 +1,75 @@
+{
+  "id": 9895013722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.34564,-20.15268,-157.34564,-20.15268",
+    "geom:latitude":-20.15268,
+    "geom:longitude":-157.34564,
+    "iso:country":"CK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11876927: name \"Oiretumu Village\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11876927"
+        },
+        {
+            "citation":"GeoNames populated place 11876927: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11876927"
+        },
+        {
+            "citation":"GeoNames populated place 11876927: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11876927"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670097 (Mauke), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670097,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11876927
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"06a84092b76ef74b736b9087c119388d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":9895013722,
+            "region_id":85670097
+        }
+    ],
+    "wof:id":9895013722,
+    "wof:lastmodified":1795735244,
+    "wof:name":"Oiretumu Village",
+    "wof:parent_id":85670097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.34564,
+    -20.15268,
+    -157.34564,
+    -20.15268
+],
+  "geometry": {"coordinates":[-157.34564,-20.15268],"type":"Point"}
+}

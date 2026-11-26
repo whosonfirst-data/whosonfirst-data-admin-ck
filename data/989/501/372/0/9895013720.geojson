@@ -1,0 +1,75 @@
+{
+  "id": 9895013720,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.81361,-21.24026,-159.81361,-21.24026",
+    "geom:latitude":-21.24026,
+    "geom:longitude":-159.81361,
+    "iso:country":"CK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748057: name \"Vaiakura Tapere\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748057"
+        },
+        {
+            "citation":"GeoNames populated place 11748057: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748057"
+        },
+        {
+            "citation":"GeoNames populated place 11748057: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748057"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670089 (Rarotonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670089,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748057
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"7d92905bf54b68b7fee84e6fc994a7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":9895013720,
+            "region_id":85670089
+        }
+    ],
+    "wof:id":9895013720,
+    "wof:lastmodified":1795735244,
+    "wof:name":"Vaiakura Tapere",
+    "wof:parent_id":85670089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.81361,
+    -21.24026,
+    -159.81361,
+    -21.24026
+],
+  "geometry": {"coordinates":[-159.81361,-21.24026],"type":"Point"}
+}
