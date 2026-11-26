@@ -1,0 +1,75 @@
+{
+  "id": 9895013718,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.82232,-21.22714,-159.82232,-21.22714",
+    "geom:latitude":-21.22714,
+    "geom:longitude":-159.82232,
+    "iso:country":"CK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11748055: name \"Arerenga Tepere\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11748055"
+        },
+        {
+            "citation":"GeoNames populated place 11748055: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11748055"
+        },
+        {
+            "citation":"GeoNames populated place 11748055: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11748055"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670089 (Rarotonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670089,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11748055
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"221cefb46c880ff33e9d3535a7ebe7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":9895013718,
+            "region_id":85670089
+        }
+    ],
+    "wof:id":9895013718,
+    "wof:lastmodified":1795735244,
+    "wof:name":"Arerenga Tepere",
+    "wof:parent_id":85670089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.82232,
+    -21.22714,
+    -159.82232,
+    -21.22714
+],
+  "geometry": {"coordinates":[-159.82232,-21.22714],"type":"Point"}
+}
